@@ -1,8 +1,9 @@
 ### Olá, eu sou a Josana Klagenberg 👋
 
-- 🌱 Atualmente estou estudando: JavaScript, HTML, CSS, React e Node.JS
+- 🌱 Atualmente estou estudando: JavaScript, HTML, CSS, React, Node.JS, JAVA e Angular
 - 👯 Procuro colaborar em projetos de Front-End
 - 😄 Pronomes: Ela/Dela, She/Her
+- 🌄 No meu tempo livre gosto de brincar com meus cachorros, assistir netflix, ler livros de autodesenvolvimento e passear
 - ⚡ Fun fact: Já tive um Blog e ainda tenho um canal no Youtube chamado Hey Nuvens, que simboliza a liberdade para sonhar e viajar
 
  <div>
@@ -24,6 +25,6 @@
 <div> 
   <a href="https://www.instagram.com/jambt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:josana.0205@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="hhttps://www.linkedin.com/in/josana-klagenberg/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/josana-klagenberg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
