@@ -17,7 +17,7 @@
   <img align="center" alt="Josana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Josana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Josana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Josana-Gif" src="https://i.picasion.com/pic91/7961cc7fc494d5d91c351a3bc885e4cf.gif">
+  <img align="right" alt="Josana-Gif" height="120" width="120" border="0" src="https://i.picasion.com/pic91/7961cc7fc494d5d91c351a3bc885e4cf.gif">
 </div>
 
  ##
