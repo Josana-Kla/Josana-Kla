@@ -1,6 +1,6 @@
 ### Olá, eu sou a Josana Klagenberg 👋
 
-- 🌱 Atualmente estou estudando: JavaScript, HTML, CSS, React, Node.JS, JAVA e Angular
+- 🌱 Atualmente estou estudando: JavaScript, HTML, CSS e JAVA
 - 👯 Procuro colaborar em projetos de Front-End
 - 😄 Pronomes: Ela/Dela, She/Her
 - 🌄 No meu tempo livre gosto de brincar com meus cachorros, assistir netflix, ler livros sobre autodesenvolvimento e passear
