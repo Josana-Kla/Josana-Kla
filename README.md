@@ -1,6 +1,6 @@
 ### Olá, eu sou a Josana Klagenberg 👋
 
-- 🌱 Atualmente estou estudando: JavaScript, HTML, CSS, React.JS, Node.JS e JAVA
+- 🌱 Atualmente estou estudando: JavaScript, HTML e CSS
 - 👯 Procuro colaborar em projetos de Front-End
 - 😄 Pronomes: Ela/Dela, She/Her
 - 🌄 No meu tempo livre gosto de brincar com meus cachorros, assistir netflix, alongar e fazer exercícios físicos, ler livros sobre autodesenvolvimento e passear para conhecer novos lugares
@@ -27,7 +27,7 @@
  ##
  
 <div> 
-  <a href="https://www.instagram.com/jambt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/jambt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href = "mailto:josana.0205@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
