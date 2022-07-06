@@ -1,11 +1,11 @@
 ### Olá, eu sou a Josana Klagenberg 👋
 
 - 🌱 Atualmente estou estudando: JavaScript, HTML e CSS
-- 👯 Procuro colaborar em projetos de Front-End
+- 👯 Procuro colaborar em projetos open source
 - 😄 Pronomes: Ela/Dela, She/Her
 - 🌄 No meu tempo livre gosto de brincar com meus cachorros, assistir netflix, alongar e fazer exercícios físicos, ler livros sobre autodesenvolvimento e passear para conhecer novos lugares
 - 👩‍💻 No momento estou construindo um portfólio para uma empresa de marketing, voluntariamente, para adquirir mais experiência na área
-- ⚡ Fun fact: Já construi meu próprio Blog com WordPress e ainda tenho um canal no Youtube chamado Hey Nuvens, que simboliza a liberdade para sonhar e viajar
+- ⚡ Fun fact: Já construi meu próprio Blog com WordPress e ainda tenho um canal no Youtube chamado Josana K, que simboliza a liberdade para sonhar e viajar
 
  <div>
   <a href="https://github.com/Josana-Kla">
@@ -31,6 +31,9 @@
   <a href = "mailto:josana.0205@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/Josana-Kla/Josana-Kla/blob/output/github-contribution-grid-snake.svg)
+
+ <img href="https://raw.githubusercontent.com/Josana-Kla/Josana-Kla/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 </div>
