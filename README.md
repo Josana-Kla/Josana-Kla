@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/josana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
- <img href="https://raw.githubusercontent.com/Josana-Kla/Josana-Kla/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/Josana-Kla/Josana-Kla/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
