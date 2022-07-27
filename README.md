@@ -1,6 +1,6 @@
 ### Olá, eu sou a Josana Klagenberg 👋
 
-- 🌱 Atualmente estou estudando: JavaScript, HTML e CSS
+- 🌱 Atualmente estou estudando: JavaScript, HTML, CSS e React.JS
 - 👯 Procuro colaborar em projetos open source
 - 😄 Pronomes: Ela/Dela, She/Her
 - 🌄 No meu tempo livre gosto de brincar com meus cachorros, assistir netflix, alongar e fazer exercícios físicos, ler livros sobre autodesenvolvimento e passear para conhecer novos lugares
@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/josana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
-<img href="https://raw.githubusercontent.com/Josana-Kla/Josana-Kla/blob/output/snake.svg" alt="Snake animation" />
+<!-- <img href="https://raw.githubusercontent.com/Josana-Kla/Josana-Kla/blob/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
