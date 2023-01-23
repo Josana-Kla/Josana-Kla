@@ -1,16 +1,16 @@
 ### Olá, eu sou a Josana Klagenberg 👋
 
-- 🌱 Atualmente estou estudando: JavaScript, HTML, CSS e React.JS
+- 🌱 Atualmente estou estudando: TypeScript
 - 👯 Procuro colaborar em projetos open source
 - 😄 Pronomes: Ela/Dela, She/Her
 - 🌄 No meu tempo livre gosto de brincar com meus cachorros, assistir netflix, alongar e fazer exercícios físicos, ler livros sobre autodesenvolvimento e passear para conhecer novos lugares
-- 👩‍💻 No momento estou construindo um portfólio para uma empresa de marketing, voluntariamente, para adquirir mais experiência na área
+- 👩‍💻 Construí um portfólio para uma empresa de marketing, voluntariamente, para adquirir mais experiência na área
 - ⚡ Fun fact: Já construi meu próprio Blog com WordPress e ainda tenho um canal no Youtube chamado Josana K, que simboliza a liberdade para sonhar e viajar
 
  <div>
   <a href="https://github.com/Josana-Kla">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Josana-Kla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josana-Kla&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Josana-Kla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Josana-Kla&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Josana-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
