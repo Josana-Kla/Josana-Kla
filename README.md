@@ -29,7 +29,10 @@
   <img align="center" alt="Josana-MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Josana-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Josana-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Josana-VTEXIO" height="60" width="100" src="https://vtexhelp.vtexassets.com/_v/public/assets/v1/published/vtexhelp.help-io@2.7.0/public/logo.png">
   <img align="right" alt="Josana-Gif" height="110" width="110" border="0" src="https://i.picasion.com/pic91/7961cc7fc494d5d91c351a3bc885e4cf.gif">
+ 
+
 </div>
 
  ## Contatos
