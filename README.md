@@ -6,9 +6,7 @@
 - 🌱 Atualmente estou estudando: Java
 - 👯 Procuro colaborar em projetos open source
 - 😄 Pronomes: Ela/Dela, She/Her
-- 🌄 No meu tempo livre gosto de brincar com meus cachorros, assistir netflix, alongar e jogar vôlei, ler livros sobre autodesenvolvimento, passear para conhecer novos lugares e aprender algo novo
-- 👩‍💻 Construí um portfólio para uma empresa de marketing para adquirir mais experiência na área
-- ⚡ Fun fact: Já construi meu próprio Blog com WordPress e tenho um canal no Youtube chamado Josana K, que simboliza a liberdade para sonhar e viajar
+- 🌄 No meu tempo livre gosto de brincar com meus cachorros, assistir filmes, alongar e jogar vôlei, ler livros sobre autodesenvolvimento, passear para conhecer novos lugares e aprender algo novo
 
  <div>
   <a href="https://github.com/Josana-Kla">
@@ -61,9 +59,7 @@
 - 🌱 Currently, I'm studying: Java
 - 👯 I'm looking to collaborate on open source projects
 - 😄 Pronouns: She/Her
-- 🌄 In my free time, I enjoy playing with my dogs, watching Netflix, doing stretching exercises, playing volleyball, reading self-development books, exploring new places, and learning something new.
-- 👩‍💻 I built a portfolio for a marketing company to gain more experience in the field.
-- ⚡ Fun fact: I have already built my own Blog using WordPress and I have a YouTube channel called Josana K, which represents freedom to dream and travel.
+- 🌄 In my free time, I enjoy playing with my dogs, watching movies, doing stretching exercises, playing volleyball, reading self-development books, exploring new places, and learning something new.
 
  <div>
   <a href="https://github.com/Josana-Kla">
